@@ -1,0 +1,12 @@
+
+Se requieren los siguientes puntos de estilo para el ejercicio.
+
+1) Toda la página no debe tener margins ni paddings
+2) Todos las etiquetas H1 y H2 deben tener la letra sans-serif
+3) La imagen que tiene la clase "img-osos" debe medir 300px por 300px 
+4) Todos los "span" que esten dentro de la etiqueta "p" y que a su vez estén dentro de la etiqueta "a" deber tener un color de letra azul
+5) Los links que tenga la etiqueta "a" y que tengan la clase "menu-link" deben tener un margen izquierdo de 10px, no deben estar subrrayados y deben tener color rosa
+6) Las etiquetas que tienen id osos deben tener un borde negro de grosor de 2px solido.
+7) Para las etiquetas "h2" que sean hijos directos de la etiqueta "article" deben tener el color de letra rojo
+8) Los links de etiqueta "a" que esten inmediatamente después de la etiqueta "h2" deben tener un color de letra verde
+9) Los links de etiqueta "a" que tengan un href="ososamorosos.html" debe tener un color de letra amarillo
